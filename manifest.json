@@ -2,7 +2,7 @@
     "name": "Calulator App",
     "short_name": "Calulator",
     "description": "Calulate percentage of given number",
-    "start_url": "/",
+    "start_url": "https://vikas8852.github.io/calculator/",
     "display": "standalone",
     "background_color": "#BFACE2",
     "theme_color": "#56067d",
